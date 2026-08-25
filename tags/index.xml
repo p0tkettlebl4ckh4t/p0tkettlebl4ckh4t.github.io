@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 02 Aug 2025 17:51:08 +0100</lastBuildDate>
+			<lastBuildDate>Tue, 23 Sep 2025 19:27:52 +0100</lastBuildDate>
 		
 			<atom:link href="https://p0tkettlebl4ckh4t.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Internet</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/internet/</link>
+				<pubDate>Tue, 23 Sep 2025 19:27:52 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/internet/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Life</title>
 				<link>https://p0tkettlebl4ckh4t.github.io/tags/life/</link>
@@ -25,13 +32,6 @@
 				<link>https://p0tkettlebl4ckh4t.github.io/tags/computers/</link>
 				<pubDate>Mon, 07 Jul 2025 20:03:26 +0100</pubDate>
 				<guid>https://p0tkettlebl4ckh4t.github.io/tags/computers/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Internet</title>
-				<link>https://p0tkettlebl4ckh4t.github.io/tags/internet/</link>
-				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
-				<guid>https://p0tkettlebl4ckh4t.github.io/tags/internet/</guid>
 				<description></description>
 			</item>
 	</channel>
