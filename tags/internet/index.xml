@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Internet on My Blog - PotKettleBlackHat</title>
+		<link>http://localhost:1313/tags/internet/</link>
+		<description>Recent content in Internet on My Blog - PotKettleBlackHat</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Jun 2025 22:18:43 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Guy Who Kept Arguing</title>
+				<link>http://localhost:1313/posts/arguement/</link>
+				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
+				<guid>http://localhost:1313/posts/arguement/</guid>
+				<description>&lt;p&gt;Some people genuinely don&amp;rsquo;t know when to stop talking.&lt;/p&gt;&#xA;&lt;p&gt;I was in a group chat tonight and one guy kept arguing with everyone about absolutely everything. Nothing serious. Just one of those people who has to correct every sentence somebody writes.&lt;/p&gt;&#xA;&lt;p&gt;Eventually he started having a go at me specifically.&lt;/p&gt;&#xA;&lt;p&gt;I told him to leave it.&lt;/p&gt;&#xA;&lt;p&gt;He didn&amp;rsquo;t.&lt;/p&gt;&#xA;&lt;p&gt;Then he started with the usual stuff about how nobody could possibly know who he was because he didn&amp;rsquo;t use his real name.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

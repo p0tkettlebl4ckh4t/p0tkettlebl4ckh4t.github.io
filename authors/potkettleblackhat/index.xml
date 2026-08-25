@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PotKettleBlackHat on My Blog - PotKettleBlackHat</title>
+		<link>http://localhost:1313/authors/potkettleblackhat/</link>
+		<description>Recent content in PotKettleBlackHat on My Blog - PotKettleBlackHat</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Jun 2025 22:18:43 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/authors/potkettleblackhat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Guy Who Kept Arguing</title>
+				<link>http://localhost:1313/posts/arguement/</link>
+				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
+				<guid>http://localhost:1313/posts/arguement/</guid>
+				<description>&lt;p&gt;Some people genuinely don&amp;rsquo;t know when to stop talking.&lt;/p&gt;&#xA;&lt;p&gt;I was in a group chat tonight and one guy kept arguing with everyone about absolutely everything. Nothing serious. Just one of those people who has to correct every sentence somebody writes.&lt;/p&gt;&#xA;&lt;p&gt;Eventually he started having a go at me specifically.&lt;/p&gt;&#xA;&lt;p&gt;I told him to leave it.&lt;/p&gt;&#xA;&lt;p&gt;He didn&amp;rsquo;t.&lt;/p&gt;&#xA;&lt;p&gt;Then he started with the usual stuff about how nobody could possibly know who he was because he didn&amp;rsquo;t use his real name.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rainy Sunday</title>
+				<link>http://localhost:1313/posts/rainy_sunday/</link>
+				<pubDate>Fri, 16 May 2025 18:42:11 +0100</pubDate>
+				<guid>http://localhost:1313/posts/rainy_sunday/</guid>
+				<description>&lt;p&gt;It has rained pretty much all day.&lt;/p&gt;&#xA;&lt;p&gt;I had planned to go out this morning but when I opened the curtains it looked like the entire street had been abandoned, so I went back to bed instead. Woke up again around eleven and spent another twenty minutes convincing myself that getting up was worth it.&lt;/p&gt;&#xA;&lt;p&gt;Eventually I did.&lt;/p&gt;&#xA;&lt;p&gt;Made some toast, cleaned the kitchen and then went into town to get a few things. I only needed shampoo and toothpaste but somehow came home with a new hoodie and a takeaway. This happens every time I go shopping.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/helloworld/</link>
+				<pubDate>Sun, 20 Apr 2025 01:07:07 +0100</pubDate>
+				<guid>http://localhost:1313/posts/helloworld/</guid>
+				<description>&lt;p&gt;Hello! Welcome to my blog.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been meaning to make one of these for ages but never really got around to it. Most of the stuff I do online ends up being random posts or messages that disappear after a few days, so I thought it would be nice to actually keep track of things somewhere.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll probably write about whatever I&amp;rsquo;m doing, which could be anything from computers and random projects to films I&amp;rsquo;ve watched or places I&amp;rsquo;ve been.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
