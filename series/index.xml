@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Series on My Blog - PotKettleBlackHat</title>
-		<link>http://localhost:1313/series/</link>
+		<link>https://p0tkettlebl4ckh4t.github.io/series/</link>
 		<description>Recent content in Series on My Blog - PotKettleBlackHat</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,14 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Jun 2025 22:18:43 +0100</lastBuildDate>
+			<lastBuildDate>Mon, 07 Jul 2025 20:03:26 +0100</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://p0tkettlebl4ckh4t.github.io/series/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Blog</title>
-				<link>http://localhost:1313/series/blog/</link>
-				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
-				<guid>http://localhost:1313/series/blog/</guid>
+				<link>https://p0tkettlebl4ckh4t.github.io/series/blog/</link>
+				<pubDate>Mon, 07 Jul 2025 20:03:26 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/series/blog/</guid>
 				<description></description>
 			</item>
 	</channel>

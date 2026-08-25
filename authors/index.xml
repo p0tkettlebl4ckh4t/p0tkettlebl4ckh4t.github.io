@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Authors on My Blog - PotKettleBlackHat</title>
-		<link>http://localhost:1313/authors/</link>
+		<link>https://p0tkettlebl4ckh4t.github.io/authors/</link>
 		<description>Recent content in Authors on My Blog - PotKettleBlackHat</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,14 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Jun 2025 22:18:43 +0100</lastBuildDate>
+			<lastBuildDate>Mon, 07 Jul 2025 20:03:26 +0100</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://p0tkettlebl4ckh4t.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>PotKettleBlackHat</title>
-				<link>http://localhost:1313/authors/potkettleblackhat/</link>
-				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
-				<guid>http://localhost:1313/authors/potkettleblackhat/</guid>
+				<link>https://p0tkettlebl4ckh4t.github.io/authors/potkettleblackhat/</link>
+				<pubDate>Mon, 07 Jul 2025 20:03:26 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/authors/potkettleblackhat/</guid>
 				<description></description>
 			</item>
 	</channel>

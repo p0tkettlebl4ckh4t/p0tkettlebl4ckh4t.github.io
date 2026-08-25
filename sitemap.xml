@@ -3,48 +3,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/loser/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/loser/</loc>
     <lastmod>2026-08-25T01:06:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/</loc>
     <lastmod>2026-08-25T01:06:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/about/</loc>
     <lastmod>2026-08-25T01:05:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/authors/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/series/blog/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/tags/computers/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/tags/life/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/posts/new-kb/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/posts/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/authors/potkettleblackhat/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/series/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/tags/</loc>
+    <lastmod>2025-07-07T20:03:26+01:00</lastmod>
+  </url><url>
+    <loc>https://p0tkettlebl4ckh4t.github.io/tags/internet/</loc>
     <lastmod>2025-06-11T22:18:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/blog/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/posts/arguement/</loc>
     <lastmod>2025-06-11T22:18:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/internet/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/potkettleblackhat/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/arguement/</loc>
-    <lastmod>2025-06-11T22:18:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/rainy_sunday/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/posts/rainy_sunday/</loc>
     <lastmod>2025-05-16T18:42:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/helloworld/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/posts/helloworld/</loc>
     <lastmod>2025-04-20T01:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://p0tkettlebl4ckh4t.github.io/categories/</loc>
   </url>
 </urlset>

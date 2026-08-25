@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>My Blog - PotKettleBlackHat</title>
-		<link>http://localhost:1313/</link>
+		<link>https://p0tkettlebl4ckh4t.github.io/</link>
 		<description>Recent content on My Blog - PotKettleBlackHat</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,40 +12,47 @@
 		
 			<lastBuildDate>Tue, 25 Aug 2026 01:06:27 +0100</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://p0tkettlebl4ckh4t.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Loser</title>
-				<link>http://localhost:1313/loser/</link>
+				<link>https://p0tkettlebl4ckh4t.github.io/loser/</link>
 				<pubDate>Tue, 25 Aug 2026 01:06:27 +0100</pubDate>
-				<guid>http://localhost:1313/loser/</guid>
+				<guid>https://p0tkettlebl4ckh4t.github.io/loser/</guid>
 				<description>&lt;style&gt;&#xA;&#x9;&#x9;body {&#xA;&#x9;&#x9;&#x9;width: 100%;&#xA;&#x9;&#x9;&#x9;height: 100%;&#xA;&#x9;&#x9;&#x9;overflow-y: auto;&#xA;&#x9;&#x9;&#x9;cursor: url(&#39;/profile.png&#39;) 16 16, auto;&#xA;&#x9;&#x9;&#x9;background: linear-gradient(45deg, #ff00cc, #3333ff, #00ff99, #ffff00);&#xA;&#x9;&#x9;&#x9;background-size: 600% 600%;&#xA;&#x9;&#x9;&#x9;animation: rainbow 10s linear infinite;&#xA;&#x9;&#x9;&#x9;font-family: &#39;Comic Sans MS&#39;, cursive, sans-serif;&#xA;&#x9;&#x9;&#x9;color: #fffc00;&#xA;&#x9;&#x9;&#x9;text-shadow: 2px 2px 5px #000;&#xA;&#x9;&#x9;&#x9;text-align: center;&#xA;&#x9;&#x9;&#x9;padding-top: 10vh;&#xA;&#x9;&#x9;&#x9;overflow-y: auto;&#xA;&#x9;&#x9;&#x9;min-height: 100vh;&#xA;&#x9;&#x9;}&#xA;        @keyframes rainbow {&#xA;&#x9;&#x9;&#x9;0% { background-position: 0% 50%; }&#xA;&#x9;&#x9;&#x9;50% { background-position: 100% 50%; }&#xA;&#x9;&#x9;&#x9;100% { background-position: 0% 50%; }&#xA;&#x9;&#x9;}&#xA;        h1 {&#xA;&#x9;&#x9;&#x9;font-size: 4rem;&#xA;&#x9;&#x9;&#x9;transform: rotate(-5deg);&#xA;&#x9;&#x9;&#x9;animation: spin 8s infinite alternate ease-in-out;&#xA;&#x9;&#x9;&#x9;margin-left: auto;&#xA;&#x9;&#x9;&#x9;margin-right: auto;&#xA;&#x9;&#x9;&#x9;width: 50%;&#xA;&#x9;&#x9;}&#xA;&#xA;&#x9;&#x9;@keyframes pulse {&#xA;&#x9;&#x9;&#x9;0% { transform: scale(1); }&#xA;&#x9;&#x9;&#x9;50% { transform: scale(1.1); }&#xA;&#x9;&#x9;&#x9;100% { transform: scale(1); }&#xA;&#x9;&#x9;}&#xA;&#xA;&#x9;&#x9;.confetti {&#xA;&#x9;&#x9;&#x9;position: fixed;&#xA;&#x9;&#x9;&#x9;width: 10px;&#xA;&#x9;&#x9;&#x9;height: 10px;&#xA;&#x9;&#x9;&#x9;background: #fff;&#xA;&#x9;&#x9;&#x9;animation: fall 3s infinite;&#xA;&#x9;&#x9;}&#xA;&#xA;&#x9;&#x9;@keyframes fall {&#xA;&#x9;&#x9;&#x9;0% { transform: translateY(-10vh) rotate(0deg); }&#xA;&#x9;&#x9;&#x9;100% { transform: translateY(110vh) rotate(360deg); }&#xA;&#x9;&#x9;}&#xA;&lt;/style&gt;&#xA;&lt;script&gt;&#xA;for (let i = 0; i &lt; 100; i++) {&#xA;&#x9;&#x9;&#x9;const confetti = document.createElement(&#34;div&#34;);&#xA;&#x9;&#x9;&#x9;confetti.classList.add(&#34;confetti&#34;);&#xA;&#x9;&#x9;&#x9;confetti.style.left = Math.random() * 100 + &#34;vw&#34;;&#xA;&#x9;&#x9;&#x9;confetti.style.top = Math.random() * -100 + &#34;vh&#34;;&#xA;&#x9;&#x9;&#x9;confetti.style.background = `hsl(${Math.random() * 360}, 100%, 50%)`;&#xA;&#x9;&#x9;&#x9;confetti.style.animationDuration = 2 + Math.random() * 3 + &#34;s&#34;;&#xA;&#x9;&#x9;&#x9;confetti.style.opacity = Math.random();&#xA;&#x9;&#x9;&#x9;document.body.appendChild(confetti);&#xA;&#x9;}&#xA;&#xA;&#x9;const trailImgURL = &#34;/profile.png&#34;;&#xA;&#x9;document.addEventListener(&#34;mousemove&#34;, (e) =&gt; {&#xA;&#x9;&#x9;&#x9;const trail = document.createElement(&#34;img&#34;);&#xA;&#x9;&#x9;&#x9;trail.src = trailImgURL;&#xA;&#x9;&#x9;&#x9;trail.className = &#34;cursor-trail&#34;;&#xA;&#x9;&#x9;&#x9;trail.style.left = `${e.clientX+20}px`;&#xA;&#x9;&#x9;&#x9;trail.style.top = `${e.clientY+20}px`;&#xA;&#x9;&#x9;&#x9;document.body.appendChild(trail);&#xA;&#x9;&#x9;&#x9;setTimeout(() =&gt; trail.remove(), 300);&#xA;&#x9;});&#xA;&lt;/script&gt;&#xA;&lt;h1 id=&#34;haha-you-thought-it-would-be-that-easy&#34;&gt;&#xA;  HAHA! YOU THOUGHT IT WOULD BE THAT EASY?!?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#haha-you-thought-it-would-be-that-easy&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;l-bozo&#34;&gt;&#xA;  L BOZO&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#l-bozo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/QmfoscRuwFI?si=s-cDug8DZdzPUoaa&amp;amp;controls=0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/about/</link>
+				<link>https://p0tkettlebl4ckh4t.github.io/about/</link>
 				<pubDate>Tue, 25 Aug 2026 01:05:56 +0100</pubDate>
-				<guid>http://localhost:1313/about/</guid>
+				<guid>https://p0tkettlebl4ckh4t.github.io/about/</guid>
 				<description>&lt;p&gt;Hello. I am the notorious PotKettleBlackHat hacker.&#xA;This blog is a collection of my ramblings from daily life.&lt;/p&gt;&#xA;&lt;p&gt;I make sure to not post too much information here, I know im a literal opsec master, but even Gods can bleed.&#xA;Anyways hope you enjoy the blog!!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PotKettleBlackHat&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
+				<title>New Keyboard</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/posts/new-kb/</link>
+				<pubDate>Mon, 07 Jul 2025 20:03:26 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/posts/new-kb/</guid>
+				<description>&lt;p&gt;Finally replaced my keyboard today.&lt;/p&gt;&#xA;&lt;p&gt;The old one was getting ridiculous. Half the keys needed to be hit twice and the space bar had developed this horrible squeak that made it sound like I was typing inside an old cupboard.&lt;/p&gt;&#xA;&lt;p&gt;The new one is much quieter, which is nice because I tend to use my computer late at night.&lt;/p&gt;&#xA;&lt;p&gt;Spent most of the afternoon setting everything up and moving things around on my desk. I also found a pile of receipts underneath my monitor that I have apparently been ignoring for several months.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Guy Who Kept Arguing</title>
-				<link>http://localhost:1313/posts/arguement/</link>
+				<link>https://p0tkettlebl4ckh4t.github.io/posts/arguement/</link>
 				<pubDate>Wed, 11 Jun 2025 22:18:43 +0100</pubDate>
-				<guid>http://localhost:1313/posts/arguement/</guid>
+				<guid>https://p0tkettlebl4ckh4t.github.io/posts/arguement/</guid>
 				<description>&lt;p&gt;Some people genuinely don&amp;rsquo;t know when to stop talking.&lt;/p&gt;&#xA;&lt;p&gt;I was in a group chat tonight and one guy kept arguing with everyone about absolutely everything. Nothing serious. Just one of those people who has to correct every sentence somebody writes.&lt;/p&gt;&#xA;&lt;p&gt;Eventually he started having a go at me specifically.&lt;/p&gt;&#xA;&lt;p&gt;I told him to leave it.&lt;/p&gt;&#xA;&lt;p&gt;He didn&amp;rsquo;t.&lt;/p&gt;&#xA;&lt;p&gt;Then he started with the usual stuff about how nobody could possibly know who he was because he didn&amp;rsquo;t use his real name.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Rainy Sunday</title>
-				<link>http://localhost:1313/posts/rainy_sunday/</link>
+				<link>https://p0tkettlebl4ckh4t.github.io/posts/rainy_sunday/</link>
 				<pubDate>Fri, 16 May 2025 18:42:11 +0100</pubDate>
-				<guid>http://localhost:1313/posts/rainy_sunday/</guid>
+				<guid>https://p0tkettlebl4ckh4t.github.io/posts/rainy_sunday/</guid>
 				<description>&lt;p&gt;It has rained pretty much all day.&lt;/p&gt;&#xA;&lt;p&gt;I had planned to go out this morning but when I opened the curtains it looked like the entire street had been abandoned, so I went back to bed instead. Woke up again around eleven and spent another twenty minutes convincing myself that getting up was worth it.&lt;/p&gt;&#xA;&lt;p&gt;Eventually I did.&lt;/p&gt;&#xA;&lt;p&gt;Made some toast, cleaned the kitchen and then went into town to get a few things. I only needed shampoo and toothpaste but somehow came home with a new hoodie and a takeaway. This happens every time I go shopping.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hello World</title>
-				<link>http://localhost:1313/posts/helloworld/</link>
+				<link>https://p0tkettlebl4ckh4t.github.io/posts/helloworld/</link>
 				<pubDate>Sun, 20 Apr 2025 01:07:07 +0100</pubDate>
-				<guid>http://localhost:1313/posts/helloworld/</guid>
+				<guid>https://p0tkettlebl4ckh4t.github.io/posts/helloworld/</guid>
 				<description>&lt;p&gt;Hello! Welcome to my blog.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been meaning to make one of these for ages but never really got around to it. Most of the stuff I do online ends up being random posts or messages that disappear after a few days, so I thought it would be nice to actually keep track of things somewhere.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll probably write about whatever I&amp;rsquo;m doing, which could be anything from computers and random projects to films I&amp;rsquo;ve watched or places I&amp;rsquo;ve been.&lt;/p&gt;</description>
 			</item>
 	</channel>
