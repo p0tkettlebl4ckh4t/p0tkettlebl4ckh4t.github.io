@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 07 Jul 2025 20:03:26 +0100</lastBuildDate>
+			<lastBuildDate>Tue, 16 Jun 2026 22:17:31 +0100</lastBuildDate>
 		
 			<atom:link href="https://p0tkettlebl4ckh4t.github.io/tags/computers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Leak</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/posts/accidental_leak/</link>
+				<pubDate>Tue, 16 Jun 2026 22:17:31 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/posts/accidental_leak/</guid>
+				<description>&lt;p&gt;Had a serious leak tonight.&lt;/p&gt;&#xA;&lt;p&gt;Tea went all over my desk.&lt;/p&gt;&#xA;&lt;p&gt;Luckily most of it missed the keyboard, although a notebook took a direct hit and now several pages of operational notes are permanently brown.&lt;/p&gt;&#xA;&lt;p&gt;This is why I never keep everything digital. You can&amp;rsquo;t hack paper. You can spill tea on it, apparently, but that&amp;rsquo;s a separate threat model.&lt;/p&gt;&#xA;&lt;p&gt;I spent twenty minutes moving cables and wiping everything down. The computer stayed on through the whole incident, which proves the setup is more resilient than most corporate networks.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>New Keyboard</title>
 				<link>https://p0tkettlebl4ckh4t.github.io/posts/new-kb/</link>

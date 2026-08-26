@@ -10,28 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Tue, 23 Sep 2025 19:27:52 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 24 Jul 2026 19:53:12 +0100</lastBuildDate>
 		
 			<atom:link href="https://p0tkettlebl4ckh4t.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Internet</title>
-				<link>https://p0tkettlebl4ckh4t.github.io/tags/internet/</link>
-				<pubDate>Tue, 23 Sep 2025 19:27:52 +0100</pubDate>
-				<guid>https://p0tkettlebl4ckh4t.github.io/tags/internet/</guid>
+				<title>Life</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/life/</link>
+				<pubDate>Fri, 24 Jul 2026 19:53:12 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/life/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Life</title>
-				<link>https://p0tkettlebl4ckh4t.github.io/tags/life/</link>
-				<pubDate>Sat, 02 Aug 2025 17:51:08 +0100</pubDate>
-				<guid>https://p0tkettlebl4ckh4t.github.io/tags/life/</guid>
+				<title>Summer</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/summer/</link>
+				<pubDate>Fri, 24 Jul 2026 19:53:12 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/summer/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Computers</title>
 				<link>https://p0tkettlebl4ckh4t.github.io/tags/computers/</link>
-				<pubDate>Mon, 07 Jul 2025 20:03:26 +0100</pubDate>
+				<pubDate>Tue, 16 Jun 2026 22:17:31 +0100</pubDate>
 				<guid>https://p0tkettlebl4ckh4t.github.io/tags/computers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Travel</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/travel/</link>
+				<pubDate>Sat, 09 May 2026 14:38:56 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Internet</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/internet/</link>
+				<pubDate>Wed, 01 Apr 2026 16:44:05 +0100</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/internet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Winter</title>
+				<link>https://p0tkettlebl4ckh4t.github.io/tags/winter/</link>
+				<pubDate>Mon, 08 Dec 2025 18:26:34 +0000</pubDate>
+				<guid>https://p0tkettlebl4ckh4t.github.io/tags/winter/</guid>
 				<description></description>
 			</item>
 	</channel>
